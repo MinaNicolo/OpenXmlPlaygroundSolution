@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/office/open-xml/open-xml-sdk
+
+http://www.ludovicperrichon.com/create-a-word-document-with-openxml-and-c/
+
+https://www.c-sharpcorner.com/article/creating-excel-file-using-openxml/
+
